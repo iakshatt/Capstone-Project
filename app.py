@@ -88,4 +88,8 @@ st.markdown("---")
 st.caption(
     "Built with TensorFlow/Keras · Trained on CIFAR-10 · "
     "[View source on GitHub](https://github.com/iakshatt/Capstone-Project)"
+<<<<<<< HEAD
 )
+=======
+)
+>>>>>>> 86e0382d8838e8d724c7b59de93cda0d55fbba90
